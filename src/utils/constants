@@ -1,0 +1,10 @@
+
+const Constants = {
+    en:'English',
+    gm:'German'
+}
+
+export default Languages
+
+
+
